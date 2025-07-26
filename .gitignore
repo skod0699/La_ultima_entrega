@@ -1,0 +1,20 @@
+# Directorios y archivos creados por el entorno virtual
+venv/
+__pycache__/
+
+# Archivos de Python compilados
+*.pyc
+
+# Base de datos SQLite
+db.sqlite3
+
+# Archivos de configuración de entorno
+.env
+
+# Si usas un editor de código como VSCode o PyCharm, puedes ignorar sus archivos
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
